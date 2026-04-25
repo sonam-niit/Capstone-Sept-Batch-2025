@@ -228,7 +228,7 @@ If you'd like to replicate this project [DevOps Accelerator] on your own AWS acc
 ```bash
 mkdir my-devops-project && cd my-devops-project
 git init
-git clone git@github.com:Anees-DevOps/devops-accelerator.git .
+git clone https://github.com/sonam-niit/Capstone-Sept-Batch-2025.git .
 ```
 
 ---
@@ -239,7 +239,7 @@ git clone git@github.com:Anees-DevOps/devops-accelerator.git .
 2. Add your new repo as remote origin:
 
    ```bash
-   git remote add origin git@github.com:your-username/your-repo.git
+   git remote add origin https://github.com/your-username/your-repo.git
    ```
 
 ---
